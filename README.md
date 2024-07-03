@@ -16,7 +16,7 @@ It utilizes Django REST Framework for API endpoints, JWT for authentication, Cel
 - Django REST Framework SimpleJWT
 - Celery
 - Redis
-- SQLite (default database, can be switched to PostgreSQL, MySQL, etc.)
+- SQLite
 
 ##Create and Activate Virtual Environment
 
